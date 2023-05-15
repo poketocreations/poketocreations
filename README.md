@@ -2,11 +2,9 @@ Poketo Creation's Studio
 
 Welcome to the official GitHub repository for Poketo Creation's Studio! We're a team of web development and graphic design experts who are passionate about creating beautiful and functional digital experiences.
 
-About Us
+About Us:
 
 At Poketo Creation's Studio, we believe that design has the power to transform businesses and impact lives. That's why we're dedicated to creating designs that are not only visually stunning, but also intuitive and user-friendly. Whether you need a new website, branding, or marketing materials, we have the skills and creativity to bring your vision to life.
-
-Our Services
 
 Our services include:
 
